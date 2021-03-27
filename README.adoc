@@ -1,0 +1,7 @@
+= Bomber Kittie
+
+WARNING: This repository was moved to https://git.escobar.life/bomber-kittie/log.html
+
+A fun little https://en.wikipedia.org/wiki/ROM_hacking[ROM hack] of mine. Download avaiable in https://github.com/GarkGarcia/Bomber-Kittie/files/2759445/BOMBKITTIE1.0.zip[here].
+
+image::PREVIEW.png[]
